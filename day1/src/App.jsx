@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="min-h-screen flex flex-col items-center bg-gray-900 justify-center p-6">
   
-      <h2 className="text-4xl mb-8 text-white  ">  Reusable Profile Card Component with Props</h2>
+      <h2 className="text-4xl mb-10 text-white  ">  Reusable Profile Card Component with Props</h2>
 
       <div className="flex gap-6 flex-wrap justify-center">
         <ProfileCard
